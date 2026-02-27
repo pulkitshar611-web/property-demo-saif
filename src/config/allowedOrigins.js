@@ -7,7 +7,8 @@ const allowedOrigins = [
     "https://www.property-n.kiaantechnology.com",
     "https://property-mastekocomplete.netlify.app",
     "http://masteko-pm.ca",
-    "https://masteko-pm.ca"
+    "https://masteko-pm.ca",
+    "https://property-demo.kiaantechnology.com"
 ];
 
 module.exports = allowedOrigins;
